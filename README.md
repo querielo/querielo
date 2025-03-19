@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Mini Royale: Nations](https://miniroyale.io/)
+- 🔭 Worked on the next games:
+  - Mini Royale: Nations
+    - [Site](https://miniroyale.io/)
+    - [Twitter](https://x.com/MiniNations)
+  - Serum City
+    - [Site](https://serumcity.xyz/)
+    - [Twitter](https://x.com/serumcity)
+  - Dookey Dash Unclogged
+    - [Site](https://dookeydashunclogged.com/)
 - 🌱 I’m currently learning **Rust**/**WebGPU**
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
