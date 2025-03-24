@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- 🔭 Worked on the next games:
-  - Mini Royale: Nations
-    - [Site](https://miniroyale.io/)
-    - [Twitter](https://x.com/MiniNations)
-  - Serum City
-    - [Site](https://serumcity.xyz/)
-    - [Twitter](https://x.com/serumcity)
-  - Dookey Dash Unclogged
-    - [Site](https://dookeydashunclogged.com/)
+- 🔭 Worked on
+  - the next games:
+    - Mini Royale: Nations (**3d**, **WebGL**, **FPS**) [Site](https://miniroyale.io/)
+    - Serum City (**2d**, **WebGL**) [Site](https://serumcity.xyz/)
+    - Dookey Dash Unclogged (**3d**, **Unity[Android/iOS]**) [Site](https://dookeydashunclogged.com/)
+  - Occipital (**3D**, **CAD**, **WebGL**) [YouTube](https://www.youtube.com/watch?v=tgHdewzbSck)
+  - GeoCV (**3D + 360° Walkthroughs**, **WebGL**) [YouTube](https://www.youtube.com/watch?v=MhHdOtkGKAw)
+  - Blend4Web (**3D**, **WebGL**) [Site](https://www.blend4web.com/en/demo/)
 - 🌱 I’m currently learning **Rust**/**WebGPU**
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
