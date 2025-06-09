@@ -8,7 +8,6 @@
   - Occipital (**3D**, **CAD**, **WebGL**) [YouTube](https://www.youtube.com/watch?v=tgHdewzbSck)
   - GeoCV (**3D + 360° Walkthroughs**, **WebGL**) [YouTube](https://www.youtube.com/watch?v=MhHdOtkGKAw)
   - Blend4Web (**3D**, **WebGL**) [Site](https://www.blend4web.com/en/demo/)
-- 🌱 I’m currently learning **Rust**/**WebGPU**
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=querielo&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
